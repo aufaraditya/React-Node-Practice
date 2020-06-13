@@ -1,0 +1,50 @@
+
+nav {
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding-top: .5em;
+    border: 1px solid #a2a2a2;
+    background-color: #f4f4f4;
+    border-radius: 5px;
+    
+}
+
+  
+  
+  p {
+      text-decoration: none;
+      color: #34495e;
+  }
+  
+  
+  
+  h3 {
+      margin: 0;
+      font-size: 1.45em;
+      
+  }
+  
+  nav p,
+  nav h3 {
+      text-transform: uppercase;
+      text-align: center;
+      display: inline-block;
+      margin: 0px  250px  20px  250px;
+  }
+
+  nav h3{
+     
+  }
+
+  nav p{
+    color: #34495e;
+    font-size: .99em;
+  
+}
+  
+
+  
+  
+  
